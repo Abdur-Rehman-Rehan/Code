@@ -2,4 +2,4 @@
 
 In this repo are my university projects
 
-These projects were made in groups 
+These projects were made in groups
